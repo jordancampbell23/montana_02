@@ -1,0 +1,13 @@
+name: global_html_chunking
+title: global_html_chunking
+username:
+account: reason
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6047691
+bundleId: 5778361
+url: https://reason.shinyapps.io/global_html_chunking/
+when: 1649425176.99454
+lastSyncTime: 1649425176.99456
+asMultiple: FALSE
+asStatic: FALSE
