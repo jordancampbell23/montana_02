@@ -13,7 +13,7 @@ library(readxl)
 library(prompter)
 library(stringr)
 
-#---------------------------SOURCE & SETTINGS--------------------------------
+#---------------------------SOURCING & SETTINGS--------------------------------
 source("backend/ui.R")
 source("backend/benefit_model.R")
 source("backend/funding_model.R")
